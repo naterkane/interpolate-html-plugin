@@ -1,8 +1,7 @@
 {
   "name": "@naterkane/interpolate-html-plugin",
-  "version": "1.0.1",
-  "description":
-    "A webpack v4 version of react-dev-utils' InterpolateHtmlPlugin.",
+  "version": "1.0.2",
+  "description": "A webpack v4 version of react-dev-utils' InterpolateHtmlPlugin.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/nenadom/interpolate-html-plugin.git"
   },
-  "keywords": ["webpack", "react-dev-utils", "plugin"],
+  "keywords": [
+    "webpack",
+    "react-dev-utils",
+    "plugin"
+  ],
   "author": "Nenad Mijatovic <me@nenad.io>",
   "license": "MIT",
   "bugs": {
